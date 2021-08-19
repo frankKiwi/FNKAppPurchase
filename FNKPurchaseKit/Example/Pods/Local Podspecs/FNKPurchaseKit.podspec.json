@@ -1,0 +1,32 @@
+{
+  "name": "FNKPurchaseKit",
+  "version": "0.1.0",
+  "summary": "A short description of FNKPurchaseKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1778907544@qq.com/FNKPurchaseKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1778907544@qq.com": "1778907544@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1778907544@qq.com/FNKPurchaseKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FNKPurchaseKit/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit",
+    "StoreKit"
+  ],
+  "dependencies": {
+    "SVProgressHUD": [
+
+    ]
+  }
+}

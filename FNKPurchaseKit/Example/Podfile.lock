@@ -1,0 +1,23 @@
+PODS:
+  - FNKPurchaseKit (0.1.0):
+    - SVProgressHUD
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - FNKPurchaseKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SVProgressHUD
+
+EXTERNAL SOURCES:
+  FNKPurchaseKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FNKPurchaseKit: 8bbc59f8471ae4be04e9afc95d31fbe1dc256403
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 7a79a5b16077d39e68cc8dd84953d3ff47622c63
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module Pods_FNKPurchaseKit_Example {
+  umbrella header "Pods-FNKPurchaseKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

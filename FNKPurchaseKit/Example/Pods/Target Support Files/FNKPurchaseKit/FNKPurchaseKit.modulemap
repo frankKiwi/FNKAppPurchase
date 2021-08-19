@@ -1,0 +1,6 @@
+framework module FNKPurchaseKit {
+  umbrella header "FNKPurchaseKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
